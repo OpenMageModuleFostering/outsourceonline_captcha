@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/OutsourceOnline_Captcha",
+    "type": "magento-module",
+    "license": "gpl",
+    "homepage": "",
+    "description": "Module to add Ajax captcha  functionality for magento",
+    "authors": [
+    {
+        "name": "Sreekanth Dayanand",
+        "email": "blogspot@outsource-online.net"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
